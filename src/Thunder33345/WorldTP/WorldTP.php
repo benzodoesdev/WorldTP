@@ -26,7 +26,7 @@ use pocketmine\utils\TextFormat as Format;
 
 class WorldTP extends PluginBase
 {
-  const LABEL = Format::DARK_GREEN.'World'.Format::GOLD.'TP';
+  const LABEL = Format::RED.'Cricix'.Format::AQUA.'PE';
   const PREFIX = Format::DARK_PURPLE.'['.self::LABEL.Format::DARK_PURPLE.']'.Format::RESET;
   const PREFIX_ERROR = Format::RED.'['.self::LABEL.Format::RED.']'.Format::RESET;
 
